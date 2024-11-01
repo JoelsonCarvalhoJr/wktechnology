@@ -1,0 +1,9 @@
+
+Copiar a DLL para a pasta onde será executado o sistema 
+Exemplo:
+(C:\KgVendas\libmySQL.dll)
+
+Rodar o Script_kg.sql, ele criará o Schema, as tabelas e inserir os registros 
+nas tabelas clientes e produtos conforme item 4 da proposta do teste.
+
+Joelson Carvalho Junior
